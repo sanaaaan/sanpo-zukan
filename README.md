@@ -302,3 +302,8 @@ MVPではシンプルで汎用性の高いお題にして２０〜３０個く�
 ### 画面遷移図
 
 https://www.figma.com/design/gdTQ8vlCIwHn4CorcHjiiW/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3%E4%BD%9C%E6%88%90%E3%83%AF%E3%83%BC%E3%82%AF?node-id=0-1&t=Ds24GxU7zI2dn8B4-1
+
+
+### ER図
+
+https://gyazo.com/1b7fa8f8750a938910838d7d4bb84dc4
